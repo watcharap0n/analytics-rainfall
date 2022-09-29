@@ -1,10 +1,10 @@
 # PYTHON Data Analytics Rainfall
 
 ****
-Welcome to Nuxt 3 repository: **The Hybrid Vue Framework** ✨
+Welcome to Analytic repository: **Data Analytics Pandas** ✨
 
-Nuxt's goal is to make web development intuitive and performant with a great developer experience in mind, learn more in
-the ["What is Nuxt?"](https://v3.nuxtjs.org/guide/concepts/introduction) section of our documentation.
+
+the ["What rainfall?"](https://www.nature.com/articles/s41598-021-95735-8) section of our documentation.
 
 ```shell
 |-- root-rainfall
@@ -32,6 +32,6 @@ the ["What is Nuxt?"](https://v3.nuxtjs.org/guide/concepts/introduction) section
 `Sample Visualize`
 ![Alt text](https://github.com/watcharap0n/analytics-rainfall/blob/master/github/gsmap_source_2021.png?raw=true "Title")
 
-
+`Sample Visualize`
 ![Alt text](https://github.com/watcharap0n/analytics-rainfall/blob/master/github/mean_toal_2020.png?raw=true "Title")
     

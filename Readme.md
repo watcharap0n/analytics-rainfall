@@ -30,6 +30,6 @@ Nuxt's goal is to make web development intuitive and performant with a great dev
 ```
 
 `Sample Visualize`
-    ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_predict.png?raw=true "Title")
+    ![Alt text](https://github.com/watcharap0n/analytics-rainfall/blob/master/github/gsmap_source_2021.png?raw=true "Title")
 
     
